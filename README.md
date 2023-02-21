@@ -14,7 +14,7 @@ Full Stack Software Engineer
 ### Tools and Languages
 ---------------------------------------------------------------------------------------
 
-[![Javascript][Javascript]][Javascript-url] , [![HTML5][HTML5]][HTML-url] , [![CSS][CSS]][CSS-url] , ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge) , [![React][React.js]][React-url] , ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge) , ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge) , [![Node.js][Node.js]][Node-url] , [![NPM][NPM]][NPM-url] , ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge) , [![Python][Python]][Python-url] , [![Flask][Flask]][Flask-url] , ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge) , ![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge) , [![Git][Git]][Git-url] , [![Github][Github]][Github-url] , ![Render Badge](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge) , ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge) , ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) , ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge) , ![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=for-the-badge) , ![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge) , ![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge) , ![Gunicorn Badge](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=for-the-badge)
+[![Javascript][Javascript]][Javascript-url] , [![HTML5][HTML5]][HTML-url] , [![CSS][CSS]][CSS-url] , [![Tailwind CSS][Tailwind CSS]][Tailwind CSS-url] , [![React][React.js]][React-url] , [![React Router][React Router]][React Router-url] , [![Redux][Redux]][Redux-url] , [![Node.js][Node.js]][Node-url] , [![NPM][NPM]][NPM-url] , [![Yarn][Yarn]][Yarn-url] , [![Python][Python]][Python-url] , [![Flask][Flask]][Flask-url] , [![Sequelize][Sequelize]][Sequelize-url] , [![.ENV][.ENV]][.ENV-url] , [![Git][Git]][Git-url] , [![Github][Github]][Github-url] , [![Render][Render]][Render-url] , [![SQLite][SQLite]][SQLite-url] , [![PostgreSQL][PostgreSQL]][PostgreSQL-url] , [![Heroku][Heroku]][Heroku-url] , [![Cypress][Cypress]][Cypress-url] , [![Mocha][Mocha]][Mocha-url] , [![Nodemon][Nodemon]][Nodemon-url] , [![Gunicorn][Gunicorn]][Gunicorn-url]
 
 ### Socials
 ---------------------------------------------------------------------------------------
@@ -54,6 +54,34 @@ Full Stack Software Engineer
 [Python-url]:https://docs.python.org/3/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Yarn]: https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge
+[Yarn-url]: https://reactjs.org/](https://yarnpkg.com/
+[React Router]:https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge
+[React Router-url]: https://reactrouter.com/en/main
+[Sequelize]:https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge
+[Sequelize-url]: https://sequelize.org/
+[.ENV]: https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge
+[.ENV-url]: https://github.com/motdotla/dotenv
+[Render]:https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge
+[Render-url]: https://render.com/
+[Redux]:https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge
+[Redux-url]: https://redux.js.org/
+[Tailwind CSS]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge
+[Tailwind CSS-url]:https://tailwindcss.com/
+[SQLite]:https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge
+[SQLite-url]:https://www.sqlite.org/index.html
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge
+[PostgreSQL-url]: https://www.postgresql.org/
+[Heroku]: https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge
+[Heroku-url]: https://www.heroku.com/
+[Cypress]: https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=for-the-badge
+[Cypress-url]: https://www.cypress.io/
+[Mocha]:https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge
+[Mocha-url]: https://mochajs.org/
+[Nodemon]: https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge
+[Nodemon-url]: https://nodemon.io/
+[Gunicorn]:https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=for-the-badge
+[Gunicorn-url]:https://gunicorn.org/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alexander-hunt-3b1b1710a/
 
