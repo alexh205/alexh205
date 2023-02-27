@@ -13,7 +13,7 @@ Full Stack Software Engineer
 ### Tools and Languages
 ---------------------------------------------------------------------------------------
 
-[![Javascript][Javascript]][Javascript-url] , [![HTML5][HTML5]][HTML-url] , [![CSS][CSS]][CSS-url] , [![Tailwind CSS][Tailwind CSS]][Tailwind CSS-url] , [![React][React.js]][React-url] , [![React Router][React Router]][React Router-url] , [![Redux][Redux]][Redux-url] , [![Node.js][Node.js]][Node-url] , [![NPM][NPM]][NPM-url] , [![Yarn][Yarn]][Yarn-url] , [![Python][Python]][Python-url] , [![Flask][Flask]][Flask-url] , [![Sequelize][Sequelize]][Sequelize-url] , [![.ENV][.ENV]][.ENV-url] , [![Git][Git]][Git-url] , [![Github][Github]][Github-url] , [![Render][Render]][Render-url] , [![SQLite][SQLite]][SQLite-url] , [![PostgreSQL][PostgreSQL]][PostgreSQL-url] , [![Heroku][Heroku]][Heroku-url] , [![Cypress][Cypress]][Cypress-url] , [![Mocha][Mocha]][Mocha-url] , [![Nodemon][Nodemon]][Nodemon-url] , [![Gunicorn][Gunicorn]][Gunicorn-url]
+[![Javascript][Javascript]][Javascript-url] , [![HTML5][HTML5]][HTML-url] , [![CSS][CSS]][CSS-url] , [![Tailwind CSS][Tailwind CSS]][Tailwind CSS-url] , [![React][React.js]][React-url] , [![React Router][React Router]][React Router-url] , [![Redux][Redux]][Redux-url] , [![Node.js][Node.js]][Node-url] , [![NPM][NPM]][NPM-url] , [![Yarn][Yarn]][Yarn-url] , [![Python][Python]][Python-url] , [![Flask][Flask]][Flask-url] , [![Sequelize][Sequelize]][Sequelize-url] , [![.ENV][.ENV]][.ENV-url] , [![Git][Git]][Git-url] , [![Github][Github]][Github-url] , [![Render][Render]][Render-url] , [![SQLite][SQLite]][SQLite-url] , [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 
 ### Socials
 ---------------------------------------------------------------------------------------
