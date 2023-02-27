@@ -5,8 +5,7 @@ Full Stack Software Engineer
 -----------------------------
 
 * 🔭 I’m currently working on my project
-* ✉️  You can contact me at: [alexhunt215@gmail.com](mailto:alexhunt215@gmail.com)
-* 📫 Or reach me at: [![LinkedIn][linkedin-shield]][linkedin-url]
+* 🔗 You can contact me at: https://www.alexhunt.info/
 * 💬 Ask me about Anything
 <!-- * ⚡  Fun Fact...I'm a Old school Soccer Player -->
 
