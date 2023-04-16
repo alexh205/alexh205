@@ -13,7 +13,7 @@ Full Stack Software Engineer
 ### Tools and Languages
 ---------------------------------------------------------------------------------------
 
-[![Javascript][Javascript]][Javascript-url] , [![HTML5][HTML5]][HTML-url] , [![CSS][CSS]][CSS-url] , [![Tailwind CSS][Tailwind CSS]][Tailwind CSS-url] , [![React][React.js]][React-url] , [![React Router][React Router]][React Router-url] , [![Redux][Redux]][Redux-url] , [![Node.js][Node.js]][Node-url] , [![NPM][NPM]][NPM-url] , [![Yarn][Yarn]][Yarn-url] , [![Python][Python]][Python-url] , [![Flask][Flask]][Flask-url] , [![Sequelize][Sequelize]][Sequelize-url] , [![.ENV][.ENV]][.ENV-url] , [![Git][Git]][Git-url] , [![Github][Github]][Github-url] , [![Render][Render]][Render-url] , [![SQLite][SQLite]][SQLite-url] , [![PostgreSQL][PostgreSQL]][PostgreSQL-url], [![Amazon AWS][Amazon AWS]][Amazon AWS-url]
+[![Javascript][Javascript]][Javascript-url] , [![HTML5][HTML5]][HTML-url] , [![CSS][CSS]][CSS-url] , [![Tailwind CSS][Tailwind CSS]][Tailwind CSS-url] , [![React][React.js]][React-url] , [![React Router][React Router]][React Router-url] , [![Redux][Redux]][Redux-url] , [![Node.js][Node.js]][Node-url] , [![NPM][NPM]][NPM-url] , [![Yarn][Yarn]][Yarn-url] , [![Python][Python]][Python-url] , [![Flask][Flask]][Flask-url] , [![Sequelize][Sequelize]][Sequelize-url] , [![.ENV][.ENV]][.ENV-url] , [![Git][Git]][Git-url] , [![Github][Github]][Github-url] , [![Render][Render]][Render-url] , [![SQLite][SQLite]][SQLite-url] , [![PostgreSQL][PostgreSQL]][PostgreSQL-url], [![Amazon AWS][Amazon AWS]][Amazon AWS-url], [![TypeScript][TypeScript]][TypeScript-url]
 
 ### Socials
 ---------------------------------------------------------------------------------------
@@ -85,4 +85,5 @@ Full Stack Software Engineer
 [linkedin-url]: https://www.linkedin.com/in/alexander-hunt-3b1b1710a/
 [Amazon AWS]: https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge
 [Amazon AWS-URL]:https://aws.amazon.com/
-
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge
+[TypeScript-url]: https://www.typescriptlang.org/
