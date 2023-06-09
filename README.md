@@ -31,6 +31,10 @@ Full Stack Software Engineer
 
 <a href="https://github.com/alexh205" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexh205&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%25Languages" alt="Top Languages" alt="alexh205's top languages"/></a>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alexh205&label=Visitors&color=1&icon=0&pretty=false" />
+</a>
+
 [Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 [Github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
