@@ -1,9 +1,10 @@
+![gitHub Banner 2](https://github.com/alexh205/alexh205/assets/95322089/e041e663-571a-45fd-a39b-609af2b108f7)
 
 
-#### I'm Alex Hunt, a skilled Software Developer 👨‍💻 based in Pennsylvania, USA. I have a passion for problem-solving and a drive to constantly excel and learn. I approach challenges with creativity and ingenuity, seeking innovative solutions. With a focus on continuous growth, I constantly expand my knowledge and stay up-to-date with the latest advancements in the software development industry.  
+#### I'm Alex Hunt, a skilled Software Engineer 👨‍💻 based in Pennsylvania, USA. I have a passion for problem-solving and a drive to constantly excel and learn. I approach challenges with creativity and ingenuity, seeking innovative solutions. With a focus on continuous growth, I constantly expand my knowledge and stay up-to-date with the latest advancements in the software development industry.  
 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br> 
 
 - 🔭 I’m currently working on [developMe](https://develop-me.onrender.com/)  
 - 🌱 I’m currently learning Typescript and MongoDB  
