@@ -1,4 +1,4 @@
-![gitHub Banner 2](https://github.com/alexh205/alexh205/assets/95322089/e041e663-571a-45fd-a39b-609af2b108f7)
+![gitHub Banner 2](https://github.com/alexh205/alexh205/assets/95322089/48dc5998-4493-40af-95c0-2d14a365567b)
 
 
 #### I'm Alex Hunt, a skilled Software Engineer 👨‍💻 based in Pennsylvania, USA. I have a passion for problem-solving and a drive to constantly excel and learn. I approach challenges with creativity and ingenuity, seeking innovative solutions. With a focus on continuous growth, I constantly expand my knowledge and stay up-to-date with the latest advancements in the software development industry.  
