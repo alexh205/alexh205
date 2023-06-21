@@ -6,7 +6,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br> 
 
-- 🔭 I’m currently working on portfolio site
+- 🔭 I’m currently working on DevelopMe
 - 🌱 I’m currently learning Typescript and MongoDB  
 - :man_technologist: Former System & software validation engineer.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
