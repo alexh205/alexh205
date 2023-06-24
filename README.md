@@ -1,7 +1,7 @@
 ![gitHub Banner 2](https://github.com/alexh205/alexh205/assets/95322089/48dc5998-4493-40af-95c0-2d14a365567b)
 
 
-#### I'm Alex Hunt, a skilled Software Engineer 👨‍💻 based in Pennsylvania, USA. I have a passion for problem-solving and a drive to constantly excel and learn. I approach challenges with creativity and ingenuity, seeking innovative solutions. With a focus on continuous growth, I constantly expand my knowledge and stay up-to-date with the latest advancements in the software development industry.  
+#### My name is Alex Hunt, and i'm skilled Software Engineer 👨‍💻 based in Pennsylvania, USA. I have a passion for problem-solving and a drive to constantly excel and learn. I approach challenges with creativity and ingenuity, seeking innovative solutions. With a focus on continuous growth, I constantly expand my knowledge and stay up-to-date with the latest advancements in the software development industry.  
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br> 
@@ -67,8 +67,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/alexh205" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://alex-portfolio-nine.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23333.svg?&style=for-the-badge&logo=internet&logoColor=white" alt="Website Badge" style="margin-bottom: 5px;">
 </a>
 <a href="https://linkedin.com/in/alexhuntdev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
