@@ -7,7 +7,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br> 
 
 - 🔭 I’m currently working on NinjaVillage
-- 🌱 I’m currently learning Typescript and MongoDB  
+- 🌱 I’m currently learning Django  
 - :man_technologist: Former System & software validation engineer.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - ⚡ Fun fact: My favorite sports are football^2 (Soccer & American football).  
